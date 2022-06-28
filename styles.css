@@ -118,6 +118,9 @@ p {
   top: 40px;
   width: 150px;
 }
+.nombre{
+  color: #000000;
+}
 .perfil-img {
   width: 15%;
 }
